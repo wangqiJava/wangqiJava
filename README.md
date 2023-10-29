@@ -22,14 +22,12 @@
 <code><img height="20" alt="vite" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
 <code><img height="20" alt="webpack" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"></code>
 <code><img height="20" alt="nestjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
-
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="20" alt="aspnet" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="oracle-database" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png"></code>
 <code><img height="20" alt="sql-server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 
