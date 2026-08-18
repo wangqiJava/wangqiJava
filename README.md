@@ -27,7 +27,3 @@
 <code><img height="20" alt="sql-server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-
-
-| <a href="https://github.com/wangqiJava"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wangqiJava&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sikehuhu's github stats" /></a> | <a href="https://github.com/wangqiJava"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiJava&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
