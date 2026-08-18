@@ -1,5 +1,3 @@
-<p align="center"><a href="https://github.com/wangqiJava"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./images/header.svg" /></a></p>
-
 **I am a programmer who understands a bit of both front-end and back-end development**
 
 **About me**
